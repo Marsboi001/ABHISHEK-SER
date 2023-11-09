@@ -1,5 +1,5 @@
 { 
-    "name": "ABHISHEK-SER",
+    "name": "Marsboi",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,14 +20,14 @@
         "js-whatsapp",
         "whatsapp",
         "wa-bot",
-        "ABHISHEK-SER",
+        "Marsboi",
         "multi-device",
         "MD",
         "baileys-md"
     ],
     "homepage": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
     "author": {
-        "name": "ABHISHEK SURESH"
+        "name": "Marsboi"
     },
     "repository": {
         "type": "git",
